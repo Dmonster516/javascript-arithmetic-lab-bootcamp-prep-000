@@ -23,7 +23,7 @@ function dec(n){
 }
 
 function makeInt(n){
-  if parseInt(n)
+  if parseInt(n) === number
   return parseInt(n);
 }
 
